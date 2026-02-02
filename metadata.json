@@ -1,0 +1,5 @@
+{
+  "name": "File Uploader Pro",
+  "description": "A professional file sharing platform with a modern drag-and-drop uploader, user profiles, download pages with countdowns, and simulated ad monetization. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}

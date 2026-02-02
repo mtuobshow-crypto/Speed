@@ -1,0 +1,14 @@
+# توجيه عناكب البحث للسماح بفهرسة المحتوى العام
+User-agent: *
+
+# منع فهرسة الصفحات الخاصة أو غير المهمة
+Disallow: /#adminDashboard
+Disallow: /#profile
+Disallow: /#paymentHistory
+Disallow: /#login
+
+# السماح بباقي المحتوى
+Allow: /
+
+# هام: قم باستبدال [YOUR_SITE_URL] بعنوان موقعك الفعلي
+Sitemap: [YOUR_SITE_URL]/sitemap.xml
